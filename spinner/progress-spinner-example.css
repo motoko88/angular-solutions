@@ -1,0 +1,17 @@
+.completion-rate-header {
+  text-align: center;
+  margin: 10px;
+}
+
+.percent {
+  position: absolute;
+  left: calc(50% - 1em);
+  top: calc(50% - 10px);
+  font-size: 2em;
+}
+
+mat-progress-spinner {
+  margin: 0 auto;
+  position: relative;
+  padding: 5px;
+}
